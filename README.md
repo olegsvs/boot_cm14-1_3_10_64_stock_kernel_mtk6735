@@ -1,0 +1,1 @@
+# boot_cm14-1_3_stock_kernel_10_mtk6735
